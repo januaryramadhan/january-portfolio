@@ -62,10 +62,10 @@ export const DATA = {
 
         navbar: true,
       },
-      LinkedIn: {
+      Whatsapp: {
         name: "LinkedIn",
         url: "https://dub.sh/dillion-linkedin",
-        icon: Icons.linkedin,
+        icon: Icons.whatsapp,
 
         navbar: true,
       },
@@ -390,7 +390,7 @@ export const DATA = {
     {
       title: "Trekking Wisata Sentul",
       href: "https://trekkingwisatasentul.com",
-      dates: "Jan 2020 - Feb 2021",
+      dates: "2021-2022",
       active: true,
       description:
         "Developed and maintained company website using WordPress. Implemented booking systems and optimized site performance for better user experience.",
@@ -398,7 +398,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
+          href: "",
           icon: <Icons.globe className="size-3" />,
         },
       ],
@@ -408,7 +408,7 @@ export const DATA = {
     {
       title: "Pesona Trekking Sentul",
       href: "",
-      dates: "June 2022 - July 2023",
+      dates: "2022-2023",
       active: true,
       description:
         "Built responsive website with modern technologies. Integrated payment gateways and booking management systems. Improved online presence and customer engagement.",
@@ -416,7 +416,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "",
           icon: <Icons.globe className="size-3" />,
         },
       ],
@@ -426,7 +426,7 @@ export const DATA = {
     {
       title: "Todo App",
       href: "",
-      dates: "June 2022 - July 2023",
+      dates: "2024",
       active: true,
       description:
         " Built responsive website with modern technologies. Integrated payment gateways and booking management systems. Improved online presence and customer engagement.",
@@ -434,7 +434,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "",
           icon: <Icons.globe className="size-3" />,
         },
       ],
@@ -444,7 +444,7 @@ export const DATA = {
     {
       title: "Weather App",
       href: "",
-      dates: "June 2022 - July 2023",
+      dates: "2024",
       active: true,
       description:
         " Built responsive website with modern technologies. Integrated payment gateways and booking management systems. Improved online presence and customer engagement.",
@@ -452,7 +452,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "",
           icon: <Icons.globe className="size-3" />,
         },
       ],
