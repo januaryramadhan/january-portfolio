@@ -63,16 +63,9 @@ export const DATA = {
         navbar: true,
       },
       Whatsapp: {
-        name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        name: "Whatsapp",
+        url: "https://api.whatsapp.com/send/?phone=628998067877&text&type=phone_number&app_absent=0",
         icon: Icons.whatsapp,
-
-        navbar: true,
-      },
-      X: {
-        name: "X",
-        url: "https://x.com",
-        icon: Icons.x,
 
         navbar: true,
       },
@@ -82,10 +75,17 @@ export const DATA = {
         icon: Icons.youtube,
         navbar: true,
       },
+      Instagram: {
+        name: "Youtube",
+        url: "https://instagram.com/januaryramadhan",
+        icon: Icons.instagram,
+        navbar: true,
+      },
       email: {
         name: "Send Email",
         url: "#",
         icon: Icons.email,
+        
 
         navbar: false,
       },
